@@ -1,0 +1,23 @@
+{
+  "name": "merge_two_array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhaimee24/merge_two_array.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhaimee24/merge_two_array/issues"
+  },
+  "homepage": "https://github.com/suhaimee24/merge_two_array#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.10"
+  }
+}
